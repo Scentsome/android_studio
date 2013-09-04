@@ -1,0 +1,16 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1378276118000 346 4b43f12824c5729390fd7ad1b85cb4f8988966eb /Users/chronoer/AndroidStudioProjects/HelloAppProject/HelloApp/build/classes/debug/com/zencher/helloapp/R$attr.class
+1378276118000 349 07e44311795df408474baa66a2ab1b398e802b5e /Users/chronoer/AndroidStudioProjects/HelloAppProject/HelloApp/build/classes/debug/com/zencher/helloapp/BuildConfig.class
+1378277165000 494 2893efcdcb42ad3d68ee18ad527d6ba4c7544a54 /Users/chronoer/AndroidStudioProjects/HelloAppProject/HelloApp/build/classes/debug/com/zencher/helloapp/R$id.class
+1378276118000 413 497e32cfe996307a52ed934f7b1176c2c5d8030b /Users/chronoer/AndroidStudioProjects/HelloAppProject/HelloApp/build/classes/debug/com/zencher/helloapp/R$drawable.class
+1378277165000 409 d7fc00469e38a2efb7c3e0799ee33a16107137c8 /Users/chronoer/AndroidStudioProjects/HelloAppProject/HelloApp/build/classes/debug/com/zencher/helloapp/R$layout.class
+1378277165000 478 28b6a359479819de5a85d22bfe5f08caebefac64 /Users/chronoer/AndroidStudioProjects/HelloAppProject/HelloApp/build/classes/debug/com/zencher/helloapp/R$string.class
+1378285766000 1264 06949d8aeb09454995836368f7bfcc90a7924f63 /Users/chronoer/AndroidStudioProjects/HelloAppProject/HelloApp/build/classes/debug/com/zencher/helloapp/MainActivity.class
+1369432937000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1378276118000 467 24600821137ef83c99731772a47f76b417a672e0 /Users/chronoer/AndroidStudioProjects/HelloAppProject/HelloApp/build/classes/debug/com/zencher/helloapp/R$dimen.class
+1378277165000 394 28aec62e493c8fab14dc231c4cee9d1a43838f51 /Users/chronoer/AndroidStudioProjects/HelloAppProject/HelloApp/build/classes/debug/com/zencher/helloapp/R$menu.class
+1378277165000 697 052bdf90d60b159321862c0dd92c65a7e4a00a12 /Users/chronoer/AndroidStudioProjects/HelloAppProject/HelloApp/build/classes/debug/com/zencher/helloapp/R.class
+1378277165000 437 2a52722091a8c56765dda9482f9d28b54f2d4c0d /Users/chronoer/AndroidStudioProjects/HelloAppProject/HelloApp/build/classes/debug/com/zencher/helloapp/R$style.class
+1378285766000 1114 0341736b597c0f51bc45d0f6767466fd124bdf4d /Users/chronoer/AndroidStudioProjects/HelloAppProject/HelloApp/build/classes/debug/com/zencher/helloapp/MainActivity$1.class
