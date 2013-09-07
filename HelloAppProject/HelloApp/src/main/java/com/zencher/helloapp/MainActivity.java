@@ -27,7 +27,20 @@ public class MainActivity extends Activity {
                 Log.v("click", "clicked");
                 TextView text = (TextView)findViewById(R.id.textView);
                 text.setText("Changed");
+				
+				Button button = (Button) findViewById(R.id.button);
+                TextView resultText = new TextView(MainActivity.this);
 
+                RelativeLayout.LayoutParams params = new RelativeLayout.LayoutParams(RelativeLayout.LayoutParams.WRAP_CONTENT, RelativeLayout.LayoutParams.WRAP_CONTENT);
+                params.addRule(RelativeLayout.ALIGN_PARENT_LEFT, RelativeLayout.TRUE);
+                params.addRule(RelativeLayout.ALIGN_PARENT_RIGHT, RelativeLayout.TRUE);
+                params.addRule(RelativeLayout.BELOW, button.getId() );
+
+                RelativeLayout layoutView = (RelativeLayout) findViewById(R.id.container);
+                resultText.setLayoutParams(params);
+                layoutView.addView(resultText);
+
+                resultText.setText("New Text");
 
             }
         });
